@@ -1,23 +1,30 @@
 # 👩🏻‍💻 Ingrid Veiga da Costa
 
-### Desenvolvedora Full Stack | Analista de Sistemas
+### 💻 Desenvolvedora Full Stack / Analista de Sistemas
 
 🎓 **Tecnologia em Análise e Desenvolvimento de Sistemas — IFPR**
+
 💻 **Técnico em Informática — IFPR**
+
+📚 **Assistente Administrativo — IFRS | EAD**
+
 🏢 **Analista de Sistemas / Suporte Técnico**
+
 📍 **Paranaguá, Paraná, Brasil**
 
 ---
 
 ## 👋 Sobre mim
 
-Olá! Eu sou a **Ingrid Veiga**, estudante de **Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)** no IFPR e formada em **Técnico em Informática** pela mesma instituição.
+Olá! Eu sou a **Ingrid**, estudante de **Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)** no IFPR e formada em **Técnico em Informática** pela mesma instituição.
 
 Meu interesse pela área de tecnologia começou durante o curso técnico, onde tive contato com desenvolvimento de sistemas, programação, bancos de dados e diferentes tecnologias.
 
 Atualmente, continuo minha formação no ensino superior e atuo profissionalmente como **Analista de Sistemas / Suporte Técnico**, trabalhando com análise de sistemas, atendimento a usuários, identificação de problemas e acompanhamento de soluções.
 
-Tenho interesse principalmente em **desenvolvimento Full Stack, desenvolvimento web, bancos de dados e sistemas voltados para solucionar necessidades reais de empresas e usuários**.
+Além da área de tecnologia, também estou realizando o curso de **Assistente Administrativo pelo IFRS, na modalidade EAD**, ampliando meus conhecimentos em processos administrativos e gestão.
+
+Tenho interesse principalmente em **desenvolvimento Full Stack, desenvolvimento web, bancos de dados, análise de sistemas e soluções voltadas para necessidades reais de empresas e usuários**.
 
 Busco constantemente desenvolver meus conhecimentos, transformar ideias em projetos e evoluir profissionalmente na área de tecnologia.
 
@@ -49,6 +56,11 @@ Busco constantemente desenvolver meus conhecimentos, transformar ideias em proje
 
 **Técnico em Informática**
 ✅ Concluído
+
+### Instituto Federal do Rio Grande do Sul — IFRS
+
+**Assistente Administrativo — EAD**
+📅 Atualmente
 
 ---
 
