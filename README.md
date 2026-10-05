@@ -16,7 +16,7 @@
 
 ## Sobre mim
 
-Olá! Eu sou a **Ingrid**, estudante de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) no IFPR e formada em Técnico em Informática pela mesma instituição.
+Olá! Eu sou a Ingrid, estudante de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) no IFPR e formada em Técnico em Informática pela mesma instituição.
 
 Meu interesse pela área de tecnologia começou durante o curso técnico, onde tive contato com desenvolvimento de sistemas, programação, bancos de dados e diferentes tecnologias.
 
