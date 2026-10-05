@@ -98,9 +98,9 @@ Busco constantemente desenvolver meus conhecimentos, transformar ideias em proje
 
 ### 📸 Memories — Uma aplicação sobre registros fotográficos
 
-**Memories** é uma aplicação desenvolvida para **armazenamento, organização e registro de memórias fotográficas**.
+**Memories** é uma aplicação desenvolvida para armazenamento, organização e registro de memórias fotográficas.
 
-A proposta do projeto é permitir que cada fotografia seja acompanhada de informações que ajudem a preservar não apenas a imagem, mas também a **história e os sentimentos relacionados àquele momento**.
+A proposta do projeto é permitir que cada fotografia seja acompanhada de informações que ajudem a preservar não apenas a imagem, mas também a história e os sentimentos relacionados àquele momento.
 
 A aplicação permite adicionar:
 
@@ -111,11 +111,11 @@ A aplicação permite adicionar:
 *  Álbuns;
 *  Sentimentos associados às memórias.
 
-Um dos principais diferenciais do projeto é justamente a utilização dos **sentimentos relacionados às fotografias**.
+Um dos principais diferenciais do projeto é justamente a utilização dos sentimentos relacionados às fotografias.
 
-Essas informações podem ser utilizadas para gerar **gráficos e visualizações**, permitindo observar quais sentimentos aparecem com maior frequência entre as memórias registradas.
+Essas informações podem ser utilizadas para gerar gráficos e visualizações, permitindo observar quais sentimentos aparecem com maior frequência entre as memórias registradas.
 
-Dessa forma, o **Memories vai além de uma simples galeria de fotos**. A aplicação busca transformar registros pessoais em informações que podem ser organizadas, visualizadas e analisadas, unindo **tecnologia, fotografia, memórias, sentimentos e visualização de dados** em uma única aplicação.
+Dessa forma, o Memories vai além de uma simples galeria de fotos. A aplicação busca transformar registros pessoais em informações que podem ser organizadas, visualizadas e analisadas, unindo tecnologia, fotografia, memórias, sentimentos e visualização de dados em uma única aplicação.
 
 ### ✨ Principais funcionalidades
 
