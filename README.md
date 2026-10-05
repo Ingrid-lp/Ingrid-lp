@@ -14,7 +14,7 @@
 
 ---
 
-## 👋 Sobre mim
+## Sobre mim
 
 Olá! Eu sou a **Ingrid**, estudante de **Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)** no IFPR e formada em **Técnico em Informática** pela mesma instituição.
 
@@ -32,10 +32,10 @@ Busco constantemente desenvolver meus conhecimentos, transformar ideias em proje
 
 ## 💼 Experiência
 
-### 🏢 INFOTECH
+### INFOTECH
 
 **Analista de Sistemas / Suporte Técnico**
-📅 06/2025 — Atualmente
+  06/2025 — Atualmente
 
 * Atendimento e suporte técnico aos usuários;
 * Análise e identificação de problemas em sistemas;
@@ -52,7 +52,7 @@ Busco constantemente desenvolver meus conhecimentos, transformar ideias em proje
 ### Instituto Federal do Paraná — IFPR
 
 **Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)**
-📅 2026 — Atualmente
+  2026 — Atualmente
 
 **Técnico em Informática**
 ✅ Concluído
@@ -60,7 +60,7 @@ Busco constantemente desenvolver meus conhecimentos, transformar ideias em proje
 ### Instituto Federal do Rio Grande do Sul — IFRS
 
 **Assistente Administrativo — EAD**
-📅 Atualmente
+  Atualmente
 
 ---
 
@@ -104,12 +104,12 @@ A proposta do projeto é permitir que cada fotografia seja acompanhada de inform
 
 A aplicação permite adicionar:
 
-* 📷 Fotografias;
-* 📝 Títulos;
-* 📄 Descrições;
-* 📅 Datas;
-* 📚 Álbuns;
-* ❤️ Sentimentos associados às memórias.
+*  Fotografias;
+*  Títulos;
+*  Descrições;
+*  Datas;
+*  Álbuns;
+*  Sentimentos associados às memórias.
 
 Um dos principais diferenciais do projeto é justamente a utilização dos **sentimentos relacionados às fotografias**.
 
@@ -119,14 +119,14 @@ Dessa forma, o **Memories vai além de uma simples galeria de fotos**. A aplica�
 
 ### ✨ Principais funcionalidades
 
-* 📷 Cadastro e armazenamento de fotografias;
-* 📝 Título e descrição das imagens;
-* 📅 Registro de datas;
-* 📚 Criação e organização de álbuns;
-* ❤️ Registro de sentimentos;
-* 📊 Gráficos e visualização dos sentimentos;
-* 🔎 Organização e consulta das memórias;
-* 🔐 Autenticação de usuários.
+*  Cadastro e armazenamento de fotografias;
+*  Título e descrição das imagens;
+*  Registro de datas;
+*  Criação e organização de álbuns;
+*  Registro de sentimentos;
+*  Gráficos e visualização dos sentimentos;
+*  Organização e consulta das memórias;
+*  Autenticação de usuários.
 
 ### 🛠️ Tecnologias utilizadas
 
